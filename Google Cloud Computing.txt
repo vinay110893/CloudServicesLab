@@ -1,0 +1,7 @@
+Google Cloud Platform (GCP):
+
+GCP is a suite of cloud computing services offered by Google.
+Similar to AWS, GCP offers various services for computing, storage, databases, machine learning, and more.
+GCP emphasizes on data analytics and machine learning capabilities, with services like BigQuery for data analytics and TensorFlow for machine learning.
+Google's global network infrastructure provides high-performance and low-latency services to users worldwide.
+Notable GCP services include Google Compute Engine, Google Cloud Storage, Google BigQuery, and Google Kubernetes Engine (GKE) for container orchestration.

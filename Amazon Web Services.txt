@@ -1,0 +1,6 @@
+Amazon Web Services (AWS):
+
+AWS is a comprehensive cloud computing platform offered by Amazon.com.
+It provides a wide range of cloud services, including computing power, storage solutions, databases, networking, machine learning, and artificial intelligence.
+AWS offers scalable and flexible infrastructure services, allowing businesses to quickly scale resources up or down based on demand.
+Some of the popular AWS services include Amazon EC2 (Elastic Compute Cloud), Amazon S3 (Simple Storage Service), Amazon RDS (Relational Database Service), and Amazon Lambda (serverless computing).
